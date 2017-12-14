@@ -1,5 +1,6 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(new model)"
+    name="Telco"
     id="1d0af4b4-fd2c-4c4c-8119-9eac53038e5c"
+    purpose="An open source Telecom reference architecture"
     version="4.0.0"/>
