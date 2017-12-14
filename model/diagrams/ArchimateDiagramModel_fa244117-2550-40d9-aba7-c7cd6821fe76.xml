@@ -8,15 +8,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b2ffdbd2-920d-4a00-88ce-535ae44a1328"
       targetConnections="043d91eb-5a57-446a-aa5b-b8685633ca92">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1583e061-42db-4a58-a7bf-9b22bb44d3c0"
-        source="b2ffdbd2-920d-4a00-88ce-535ae44a1328"
-        target="73c6c6ee-6a17-4fab-8253-a95b15f0ee3d">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_5b231387-a7b4-479b-b265-3b73d10de8ae.xml#5b231387-a7b4-479b-b265-3b73d10de8ae"/>
-    </sourceConnections>
     <bounds
         x="312"
         y="96"
@@ -29,7 +20,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="73c6c6ee-6a17-4fab-8253-a95b15f0ee3d"
-      targetConnections="b9e7b128-a8c3-4db9-802e-5e55c50dab84 1583e061-42db-4a58-a7bf-9b22bb44d3c0">
+      targetConnections="b9e7b128-a8c3-4db9-802e-5e55c50dab84">
     <bounds
         x="504"
         y="216"
