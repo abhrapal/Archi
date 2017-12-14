@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Product Catalogue"
+    id="b552e0a4-ae77-4109-9c0b-abf60c10e8ee"
+    viewpoint="capability">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="38c7b6d2-6de9-430d-a02b-cd212e420e0d">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_51ab9de7-8d10-4758-a238-bee923b0625b.xml#51ab9de7-8d10-4758-a238-bee923b0625b"/>
+  </children>
+</archimate:ArchimateDiagramModel>
